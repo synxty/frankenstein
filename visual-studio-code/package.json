@@ -23,5 +23,16 @@
                 "path": "./themes/frankenstein-color-theme.json"
             }
         ]
+    },
+    "keywords": [
+        "dark",
+        "theme",
+        "color-theme",
+        "frankenstein",
+        "dracula"
+    ],
+    "galleryBanner": {
+        "color": "#4F806D",
+        "theme": "dark"
     }
 }
