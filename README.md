@@ -1,5 +1,7 @@
 # Frankenstein Theme
 
+![Frankenstein's Monster](https://raw.githubusercontent.com/synxty/frankenstein/master/visual-studio-code/icon.png)
+
 > A dark theme for [Visual Studio Code](https://code.visualstudio.com/) inspired by Dracula Theme, Frankenstein is even more darker and it's green!
 
 | Palette      | Hex       | RGB           | HSL             | HSB             |
