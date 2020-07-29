@@ -1,0 +1,27 @@
+{
+    "name": "frankenstein",
+    "displayName": "Frankenstein",
+    "description": "Inspired by Dracula Theme, Frankenstein is even more darker and it's green!",
+    "version": "1.0.0",
+    "publisher": "synxty",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/synxty/frankenstein"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Frankenstein",
+                "uiTheme": "vs-dark",
+                "path": "./themes/frankenstein-color-theme.json"
+            }
+        ]
+    }
+}
