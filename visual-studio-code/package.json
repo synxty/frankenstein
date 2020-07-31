@@ -1,8 +1,8 @@
 {
     "name": "frankenstein",
     "displayName": "Frankenstein",
-    "description": "Inspired by Dracula Theme, Frankenstein is even more darker and it's green!",
-    "version": "1.0.0",
+    "description": "Inspired by Dracula Theme, Frankenstein is even darker and it's green!",
+    "version": "1.0.1",
     "publisher": "synxty",
     "repository": {
         "type": "git",
